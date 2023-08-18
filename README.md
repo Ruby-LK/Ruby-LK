@@ -7,3 +7,6 @@ Welcome to my GitHub profile! 🌟 I'm passionate about coding, problem-solving,
 - ⚡ Fun fact: I believe that coding errors are opportunities to learn and grow. Embracing challenges is my motto!
 
 Feel free to reach out to me if you want to collaborate, have questions, or just want to chat about coding and technology. Let's connect and learn from each other! 😊
+
+## Would you like to buy me a coffee ?
+Buy me a coffee : https://www.buymeacoffee.com/imrubylk
