@@ -9,4 +9,6 @@ Welcome to my GitHub profile! 🌟 I'm passionate about coding, problem-solving,
 Feel free to reach out to me if you want to collaborate, have questions, or just want to chat about coding and technology. Let's connect and learn from each other! 😊
 
 ## Would you like to buy me a coffee ?
-Buy me a coffee : https://www.buymeacoffee.com/imrubylk
+<!-- Buy me a coffee : https://www.buymeacoffee.com/imrubylk -->
+Yeah. Just click this button. <br><br>
+<a href="https://www.buymeacoffee.com/imrubylk"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=imrubylk&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
